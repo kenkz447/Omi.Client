@@ -12,7 +12,7 @@
             "esnext.asynciterable"
         ],
         "moduleResolution": "node",
-        "module": "es6",
+        "module": "commonjs",
         "noImplicitAny": false,
         "removeComments": true,
         "sourceMap": true,
